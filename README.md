@@ -28,13 +28,13 @@ Welcome to the repository containing the website of SmartHotel360. SmartHotel360
 
 # Getting Started
 
-Once downloaded you can open the `SmartHotel360.WebSite.sln` file, located in the Source folder to open the solution in Visual Studio 2017 15.5 or higher. This solution contains two projects:
+Once downloaded you can open the `SmartHotel360.WebSite.sln` file, located in the Source Folder to open the solution in Visual Studio 2017 15.5 or higher. This solution contains two projects:
 
 * The SmartHotel360.Website project: An [ASP.NET Core](www.dot.net) website which is a web app developed using React+Redux and server-side rendering.
 
 * The SmartHotel360.WebsiteFunction project: An [Azure Function](https://azure.microsoft.com/services/functions) used to analyze photos of pets using the Cognitive Services Vision API and Azure Cosmos DB.
 
-> Note: You will need NodeJS installed and Azure CLI in order to run the solution locally.
+> Note: You will need NodeJS installed and Azure CLI in order to run the solution locally and efficiently.
 
 # Deploy to Azure
 
